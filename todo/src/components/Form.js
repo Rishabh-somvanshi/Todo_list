@@ -1,5 +1,5 @@
 import React from "react";
-
+//trying git
 const Form = ({setInputText,todos,setTodos,inputText,setStatus}) => {
     //javascript code and function can be written here 
     const inputTextHandler = (e) => {
